@@ -1,1 +1,1 @@
-Simple javascript Add-Delete Book to the list
+Simple javascript example Add-Delete Book to the list
